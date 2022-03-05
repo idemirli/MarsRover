@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MarsRover.Repository/1.0.0": {
+        "dependencies": {
+          "MarsRover.Data": "1.0.0"
+        },
+        "runtime": {
+          "MarsRover.Repository.dll": {}
+        }
+      },
+      "MarsRover.Data/1.0.0": {
+        "runtime": {
+          "MarsRover.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRover.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsRover.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

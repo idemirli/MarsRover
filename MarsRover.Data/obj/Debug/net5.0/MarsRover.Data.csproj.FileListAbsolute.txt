@@ -1,0 +1,11 @@
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\bin\Debug\net5.0\MarsRover.Data.deps.json
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\bin\Debug\net5.0\MarsRover.Data.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\bin\Debug\net5.0\ref\MarsRover.Data.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\bin\Debug\net5.0\MarsRover.Data.pdb
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\MarsRover.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\MarsRover.Data.AssemblyInfoInputs.cache
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\MarsRover.Data.AssemblyInfo.cs
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\MarsRover.Data.csproj.CoreCompileInputs.cache
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\MarsRover.Data.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\ref\MarsRover.Data.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Data\obj\Debug\net5.0\MarsRover.Data.pdb

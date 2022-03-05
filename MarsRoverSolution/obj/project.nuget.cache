@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9P7Xwil906TpCUua+vhAe6t6Ic2d0COdWJQJb/eUCmYuQ20uhBW8CVuAhz3nopXkvLCwqHtxekEXttg0ZKqslw==",
+  "success": true,
+  "projectFilePath": "D:\\github\\marsRover_hepsiBurada\\MarsRoverSolution\\MarsRoverSolution\\MarsRoverSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrhm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\ibrhm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

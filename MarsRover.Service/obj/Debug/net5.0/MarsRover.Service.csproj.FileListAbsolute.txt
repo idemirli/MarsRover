@@ -1,0 +1,17 @@
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Service.deps.json
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Service.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\ref\MarsRover.Service.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Service.pdb
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Data.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Repository.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Data.pdb
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\bin\Debug\net5.0\MarsRover.Repository.pdb
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.csproj.AssemblyReference.cache
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.AssemblyInfoInputs.cache
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.AssemblyInfo.cs
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.csproj.CoreCompileInputs.cache
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.csproj.CopyComplete
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\ref\MarsRover.Service.dll
+D:\github\marsRover_hepsiBurada\MarsRoverSolution\MarsRover.Service\obj\Debug\net5.0\MarsRover.Service.pdb
